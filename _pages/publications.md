@@ -16,7 +16,7 @@ Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn S
 <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah.
 <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact</i>. <b>AAAI 2020</b>.
 
-<b>[Semi-supervised Learning to Perceive Children’s Affective States in a Tablet Tutor](http://lantaoyu.com/publications/MOPO)</b> <br> 
+<b>[Semi-supervised Learning to Perceive Children’s Affective States in a Tablet Tutor](https://mansiagarwal11.github.io//publications/Semisupervised)</b> <br> 
 <b>Mansi Agarwal</b>, Jack Mostow,
 <i>The Tenth Symposium on Educational Advances in Artificial Intelligence</i>. <b>AAAI-EAAI 2020</b>.
 
