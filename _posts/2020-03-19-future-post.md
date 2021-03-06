@@ -1,11 +1,11 @@
 ---
-id: 2
+id: 1
 title: Making the most out of the situation
 date: 2020-03-19T21:37:10+00:00
 author: Mansi
-excerpt: 'I want to address a small group of college-goers who might have got the golden opportunity to work on amazing research projects over the summer, funded by some external organization or self. I can understand how disheartening it is to be so close to achieving something, but not being able to reach the end of the rainbow and find the pot of gold. (For all those who are not aware, certain programs like Mitacs have decided not to host their programs this year keeping everyone's health and safety in mind.)'
+excerpt: "I want to address a small group of college-goers who might have got the golden opportunity to work on amazing research projects over the summer, funded by some external organization or self. I can understand how disheartening it is to be so close to achieving something, but not being able to reach the end of the rainbow and find the pot of gold. (For all those who are not aware, certain programs like Mitacs have decided not to host their programs this year keeping everyone's health and safety in mind.)"
 
-permalink: /posts/2020/03/Making-the-most-out-of-the-situation// 
+permalink: /posts/2020/03/Making-the-most-out-of-the-situation//
 redirect_from:
   - https://medium.com/climb-dtu/hello-everyone-b7e8d7f945ef
 tags:
