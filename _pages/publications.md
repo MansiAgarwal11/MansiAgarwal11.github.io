@@ -12,7 +12,7 @@ Bikram Boote\*, <b>Mansi Agarwal\*</b>, Jack Mostow.
 Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn Shah, Yifang Yin.
 <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers</i>. <b>ACMM 2021</b>.
 
-<b>[Crisis-DIAS: Towards Multimodal Damage Analysis - Deployment, Challenges, and Assessment)](http://lantaoyu.com/publications/MOPO)</b> <br> 
+<b>[Crisis-DIAS: Towards Multimodal Damage Analysis - Deployment, Challenges, and Assessment](https://mansiagarwal11.github.io//publications/crisis)</b> <br> 
 <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah.
 <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact</i>. <b>AAAI 2020</b>.
 
@@ -20,15 +20,15 @@ Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn S
 <b>Mansi Agarwal</b>, Jack Mostow,
 <i>The Tenth Symposium on Educational Advances in Artificial Intelligence</i>. <b>AAAI-EAAI 2020</b>.
 
-<b>[MEMIS: Multimodal Emergency Management Information System](http://lantaoyu.com/publications/fEBM)</b> <br> 
+<b>[MEMIS: Multimodal Emergency Management Information System](https://mansiagarwal11.github.io//publications/memis)</b> <br> 
 <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah, Rajesh Yadav, Dinesh Vishwakarma.
 <i>The Forty-Second European Conference on Information Retrieval</i>. <b>ECIR 2020</b>.
 
-<b>[Hush-Hush Speak: Speech Reconstruction Using Silent Videos](http://lantaoyu.com/publications/VBDA)</b> <br> 
+<b>[Hush-Hush Speak: Speech Reconstruction Using Silent Videos](https://mansiagarwal11.github.io//publications/hush)</b> <br> 
 Shashwat Uttam\*, Yaman Kumar\*, Dhruva Sahrawat\*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah, Debanjan Mahata.
 <i>The Twentieth Annual Conference of the International Speech Communication Association</i>. <b>InterSpeech 2019</b>.
 
-<b>[Video Summarization Using Global Attention With Memory Network and LSTM](http://lantaoyu.com/publications/TextDR)</b> <br> 
+<b>[Video Summarization Using Global Attention With Memory Network and LSTM](https://mansiagarwal11.github.io//publications/bigmm)</b> <br> 
 Dhruva Sahrawat\*, Mohit Agarwal\*, Sanchit Sinha\*, Aditya Adhikary\*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah.
 <i>The Fifth IEEE International Conference on Multimedia Big Data</i>. <b>BigMM 2019</b>.
 
