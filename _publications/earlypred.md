@@ -3,7 +3,7 @@ title: "Early Prediction of Children’s Task Completion in a Tablet Tutor using
 collection: publications
 permalink: /publications/earlypred
 venue: "The Thirty-Fifth AAAI Conference on Artificial Intelligence: Student Abstract. AAAI 2021"
-date: 2020-9-30
+date: 2021-2-30
 citation: 'Bikram Boote*, <b>Mansi Agarwal*</b>, and Jack Mostow. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence: Student Abstract</i>. <b>AAAI 2021</b>.'
 ---
 
