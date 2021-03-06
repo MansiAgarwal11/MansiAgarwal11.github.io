@@ -2,8 +2,8 @@
 title: "Video Summarization Using Global Attention With Memory Network and LSTM"
 collection: publications
 permalink: /publications/bigmm
-venue: "The Fifth IEEE International Conference on Multimedia Big Data. BigMM 2019."
-date: 2020-9-30
+venue: "The Fifth IEEE International Conference on Multimedia Big Data."
+date: 2019-9-30
 citation: Shashwat Uttam*, Yaman Kumar*, Dhruva Sahrawat*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah, Debanjan Mahata. <i>The Fifth IEEE International Conference on Multimedia Big Data</i>. <b>BigMM 2019</b>.
 ---
 
