@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/bigmm
 venue: "The Fifth IEEE International Conference on Multimedia Big Data. BigMM 2019."
 date: 2020-9-30
-citation: Shashwat Uttam\*, Yaman Kumar\*, Dhruva Sahrawat\*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah, Debanjan Mahata. <i>The Fifth IEEE International Conference on Multimedia Big Data</i>. <b>BigMM 2019</b>.'
+citation: Shashwat Uttam*, Yaman Kumar*, Dhruva Sahrawat*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah, Debanjan Mahata. <i>The Fifth IEEE International Conference on Multimedia Big Data</i>. <b>BigMM 2019</b>.'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2010.12810.pdf)
