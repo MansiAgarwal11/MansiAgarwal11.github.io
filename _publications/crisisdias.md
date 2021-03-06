@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/crisisdias
 venue: "The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact. AAAI 2020."
 date: 2020-9-30
-citation: <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact</i>. <b>AAAI 2020</b>.'
+citation: '<b>Mansi Agarwal*</b>, Maitree Leekha*, Ramit Sawhney, Rajiv Ratn Shah. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact</i>. <b>AAAI 2020</b>.'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2010.12810.pdf)
