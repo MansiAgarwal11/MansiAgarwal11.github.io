@@ -7,6 +7,9 @@ date: 2021-2-30
 citation: 'Bikram Boote*, <b>Mansi Agarwal*</b>, and Jack Mostow. <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence: Student Abstract</i>. <b>AAAI 2021</b>.'
 ---
 
+doi_link: 'https://doi.org/10.1109/TUFFC.2020.2977210'
+code_link: 'https://sites.google.com/site/sercmig/home/dnnpat'
+doi: '10.1109/TUFFC.2020.2977210'
 
 [[PDF]](https://arxiv.org/pdf/2010.12810.pdf)
 
