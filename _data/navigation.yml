@@ -11,7 +11,7 @@ main:
     url: /year-archive/
 
   - title: "News"
-    url: /news
+    url: /pages/news.md
 
   # - title: "CV"
     # url: /cv/
