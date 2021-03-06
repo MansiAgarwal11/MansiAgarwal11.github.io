@@ -2,8 +2,8 @@
 title: "Hush-Hush Speak: Speech Reconstruction Using Silent Videos"
 collection: publications
 permalink: /publications/hush
-venue: "The Twentieth Annual Conference of the International Speech Communication Association. InterSpeech 2019."
-date: 2020-9-30
+venue: "The Twentieth Annual Conference of the International Speech Communication Association."
+date: 2019-9-30
 citation: Shashwat Uttam*, Yaman Kumar*, Dhruva Sahrawat*, <b>Mansi Agarwal</b>, Rajiv Ratn Shah, Debanjan Mahata. <i>The Twentieth Annual Conference of the International Speech Communication Association</i>. <b>InterSpeech 2019</b>.
 ---
 
