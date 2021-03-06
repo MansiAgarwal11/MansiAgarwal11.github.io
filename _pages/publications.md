@@ -20,7 +20,7 @@ Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn S
 <b>Mansi Agarwal</b>, Jack Mostow,
 <i>The Tenth Symposium on Educational Advances in Artificial Intelligence</i>. <b>AAAI-EAAI 2020</b>.
 
-<b>[MEMIS: Multimodal Emergency Management Information System](https://mansiagarwal11.github.io//publications/memis)</b> <br> 
+<b>[MEMIS: Multimodal Emergency Management Information System](https://mansiagarwal11.github.io//publications//memis)</b> <br> 
 <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah, Rajesh Yadav, Dinesh Vishwakarma.
 <i>The Forty-Second European Conference on Information Retrieval</i>. <b>ECIR 2020</b>.
 
