@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/seeksuspect
 venue: "The Second ACM International Conference on Multimedia in Asia: Demo Papers. ACMM 2021"
 date: 2020-9-30
-citation: Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn Shah, Yifang Yin. <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers.</i>. <b>ACMM 2021</b>.'
+citation: 'Aayush Jain*, Meet Shah*, Suraj Pandey*, <b>Mansi Agarwal*</b>, Rajiv Ratn Shah, Yifang Yin. <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers.</i>. <b>ACMM 2021</b>.'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2010.12810.pdf)
