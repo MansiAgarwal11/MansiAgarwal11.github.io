@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Early Prediction of Children’s Task Completion in a Tablet Tutor using Visual Features](http://lantaoyu.com/publications/RAL21)</b> <br>
+<b>[Early Prediction of Children’s Task Completion in a Tablet Tutor using Visual Features](https://mansiagarwal11.github.io//publications/earlypred)</b> <br>
 Bikram Boote\*, <b>Mansi Agarwal\*</b>, Jack Mostow.
 <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence: Student Abstract</i>. <b>AAAI 2021 (Finalist Paper)</b>.
 
-<b>[SeekSuspect : Retrieving Suspects from Criminal Datasets using Visual Memory](http://lantaoyu.com/publications/SSLTheory)</b> <br>
+<b>[SeekSuspect : Retrieving Suspects from Criminal Datasets using Visual Memory](https://mansiagarwal11.github.io//publications/seeksuspect)</b> <br>
 Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn Shah, Yifang Yin.
 <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers</i>. <b>ACMM 2021</b>.
 
