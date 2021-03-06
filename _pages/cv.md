@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume/
+permalink: /files/Mansi_Agarwal_Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
