@@ -1,9 +1,9 @@
 ---
 title: "News"
-permalink: /news/
+permalink: /news
 author_profile: true
 redirect_from: 
-  - /news/
+  - /news
 ---
 
 * I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
