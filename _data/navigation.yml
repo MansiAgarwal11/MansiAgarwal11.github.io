@@ -13,7 +13,7 @@ main:
     # url: /portfolio/
 
   - title: "Blog Posts"
-    url: /pages/blogs
+    url: /year-archive/
 
   - title: "Resume"
     url: /files/Mansi_Agarwal_Resume.pdf
