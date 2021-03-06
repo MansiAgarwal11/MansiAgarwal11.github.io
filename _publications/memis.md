@@ -2,7 +2,7 @@
 title: "MEMIS: Multimodal Emergency Management Information System"
 collection: publications
 permalink: /publications/crisisdias
-venue: "The Forty-Second European Conference on Information Retrieval. ECIR 2020."
+venue: "The Forty-Second European Conference on Information Retrieval."
 date: 2020-9-30
 citation: <b>Mansi Agarwal*</b>, Maitree Leekha*, Ramit Sawhney, Rajiv Ratn Shah, Rajesh Yadav, Dinesh Vishwakarma. <i>The Forty-Second European Conference on Information Retrieval</i>. <b>ECIR 2020</b>.'
 ---
