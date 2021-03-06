@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /files/Mansi_Agarwal_Resume.pdf
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,4 +11,6 @@ redirect_from:
 
 [Click to View My Up-to-date Resume [PDF]](https://mansiagarwal11.github.io/files/Mansi_Agarwal_Resume.pdf)
 
-<embed src="https://mansiagarwal11.github.io//files/Mansi_Agarwal_Resume.pdf" width="650" height="1800" type='application/pdf'>
+<embed src="https://username.github.io/files/cv.pdf"  width="600px" height="500px" />
+
+<embed src="https://mansiagarwal11.github.io//files/Mansi_Agarwal_Resume.pdf" type="application/pdf" width="600px" height="500px" />
