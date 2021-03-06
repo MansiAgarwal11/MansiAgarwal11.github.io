@@ -3,7 +3,7 @@ title: "SeekSuspect : Retrieving Suspects from Criminal Datasets using Visual Me
 collection: publications
 permalink: /publications/seeksuspect
 venue: "The Second ACM International Conference on Multimedia in Asia: Demo Papers. ACMM 2021"
-date: 2020-9-30
+date: 2021-3-5
 citation: 'Aayush Jain*, Meet Shah*, Suraj Pandey*, <b>Mansi Agarwal*</b>, Rajiv Ratn Shah, Yifang Yin. <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers.</i>. <b>ACMM 2021</b>.'
 ---
 
