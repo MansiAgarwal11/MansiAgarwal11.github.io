@@ -39,7 +39,7 @@ This summer, I had a golden opportunity of interning at the Robotics Institute, 
 
 <b>When are the results declared? </b>
 
-I received an email from the SN BOSE scholarship program on the 15th of January. The mail announced I had been "provisionally" shortlisted. This means that one has been granted the scholarship (stipend \$2500, round air trip, health insurance up to \$500), but he/she still needs to find a host institution.
+I received an email from the SN BOSE scholarship program on the 15th of January. The mail announced I had been "provisionally" shortlisted. This means that one has been granted the scholarship (stipend /$2500, round air trip, health insurance up to /$500), but he/she still needs to find a host institution. 
 
 This is a challenging task as professors receive mails in bulk, every day.
 Here are some pointers you might want to keep in mind:
