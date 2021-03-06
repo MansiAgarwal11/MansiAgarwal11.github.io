@@ -12,7 +12,7 @@ Bikram Boote\*, <b>Mansi Agarwal\*</b>, Jack Mostow.
 Aayush Jain\*, Meet Shah\*, Suraj Pandey\*, <b>Mansi Agarwal\*</b>, Rajiv Ratn Shah, Yifang Yin.
 <i>The Second ACM International Conference on Multimedia in Asia: Demo Papers</i>. <b>ACMM 2021</b>.
 
-<b>[Crisis-DIAS: Towards Multimodal Damage Analysis - Deployment, Challenges, and Assessment](https://mansiagarwal11.github.io//publications/crisis)</b> <br> 
+<b>[Crisis-DIAS: Towards Multimodal Damage Analysis - Deployment, Challenges, and Assessment](https://mansiagarwal11.github.io//publications/crisisdias)</b> <br> 
 <b>Mansi Agarwal\*</b>, Maitree Leekha\*, Ramit Sawhney, Rajiv Ratn Shah.
 <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence: AI for Social Impact</i>. <b>AAAI 2020</b>.
 
