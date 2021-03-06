@@ -3,21 +3,14 @@ main:
 
  - title: "Resume"
     url: /files/Mansi_Agarwal_Resume.pdf
-    
-    
-  - title: "Publications"
+     
+ - title: "Publications"
     url: /publications/
 
-  - title: "News"
-     url: /news/
+ - title: "News"
+    url: /news/
 
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Portfolio"
-    # url: /portfolio/
-
-  - title: "Blog Posts"
+ - title: "Blog Posts"
     url: /year-archive/
 
  
