@@ -1,17 +1,15 @@
 # main links links
 main:
-
- - title: "Resume"
-    url: /files/Mansi_Agarwal_Resume.pdf
-     
+   
+- title: "Resume"
+  url: /files/Mansi_Agarwal_Resume.pdf
+  
  - title: "Publications"
-    url: /publications/
+   url: /publications/
 
  - title: "Blog Posts"
-    url: /year-archive/
+   url: /year-archive/
 
- - title: "Talks"
-    url: /talks/
 
   # - title: "Guide"
   #   url: /markdown/
