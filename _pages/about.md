@@ -14,7 +14,7 @@ I am an incoming [MSR](https://www.ri.cmu.edu/education/academic-programs/master
 
 I am interested in Deep Learning and its applications in Computer Vision and related interdisciplinary fields. It is fascinating how a lot of simple numbers, text, and images hide within them, a goldmine of meaning, waiting to be discovered. This art of exploring data to make far-reaching inferences fascinates me. 
 
-Workin on various projects like Intelligent Tutoring Systems to promote education in underprivileged sections of the society, systems to early detect breast tumours in Indian population, and more has established my belief in the power of what Artificial Intelligence can achieve.
+Working on various projects like Intelligent Tutoring Systems to promote education in underprivileged sections of the society, systems to early detect breast tumours in Indian population, and more has established my belief in the power of what Artificial Intelligence can achieve.
 
 Due to this belief and my urge to give back to society, I aim to be able to work on a varied set of projects that can contribute significantly to the problems in the real world. 
 
