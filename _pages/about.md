@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 I am an incoming [MSR](https://www.ri.cmu.edu/education/academic-programs/master-of-science-robotics/) student in the Robotics Institute at Carnegie Mellon University. I have been remotely working with [Prof. Jack Mostow](https://scholar.google.co.in/citations?user=P0Mv6pIAAAAJ&hl=en) on [RoboTutor](https://www.cmu.edu/scs/robotutor/), an Intelligent Tutoring System. I am also a Research Assistant at [MIDAS, IIITD](http://midas.iiitd.edu.in/), advised by [Dr. Rajiv Ratn Shah](https://scholar.google.co.in/citations?user=WAChZv4AAAAJ&hl=en), developing a suspect retrieval database system for Delhi Police, India.
 
 <b>Research: AI for Social Good </b>
