@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a first year Masters student in Robotics Institute at the School of Computer Science, Carnegie Mellon University. I am currently working at at Robot Perceiving and Doing ([RPAD](https://r-pad.github.io)) lab advised by [Prof. David Held](https://davheld.github.io) as a graduate research assistant. I am interested in Computer Vision, Reinforcement Learning and Deep Learning algorithms and currently investigating how we can teach robots to fold clothes without providing subgoals. 
+Hello, I am a second year Masters student in Robotics Institute at the School of Computer Science, Carnegie Mellon University. I am currently working at Robot Perceiving and Doing ([RPAD](https://r-pad.github.io)) lab advised by [Prof. David Held](https://davheld.github.io) as a graduate research assistant. I am interested in 3D Vision, Reinforcement Learning and Deep Learning algorithms and currently working on deformable object manipulation.
 
 In 2020, I was remotely working with [Prof. Jack Mostow](https://scholar.google.ca/citations?user=P0Mv6pIAAAAJ&hl=en) on RoboTutor, an Intelligent Tutoring System building a disengagement predictor using facial cues. I was also a Research Assistant at MIDAS, IIITD, advised by [Dr. Rajiv Ratn Shah](https://scholar.google.com.sg/citations?user=WAChZv4AAAAJ&hl=en), leading the team building a suspect retrieval system for Delhi Police, India. 
 
