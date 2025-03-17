@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a second year Masters student in Robotics Institute at the School of Computer Science, Carnegie Mellon University. I am currently working at Robot Perceiving and Doing ([RPAD](https://r-pad.github.io)) lab advised by [Prof. David Held](https://davheld.github.io) as a graduate research assistant. I am interested in 3D Vision, Reinforcement Learning and Deep Learning algorithms and currently working on deformable object manipulation.
+Hello! I’m Mansi Agarwal, an Applied Scientist at Amazon Robotics with a passion for developing cutting-edge AI solutions. With expertise spanning Computer Vision, 3D Vision, Deep Learning, Reinforcement Learning, and Generative AI, I thrive at the intersection of research and real-world application.
 
-In 2020, I was remotely working with [Prof. Jack Mostow](https://scholar.google.ca/citations?user=P0Mv6pIAAAAJ&hl=en) on RoboTutor, an Intelligent Tutoring System building a disengagement predictor using facial cues. I was also a Research Assistant at MIDAS, IIITD, advised by [Dr. Rajiv Ratn Shah](https://scholar.google.com.sg/citations?user=WAChZv4AAAAJ&hl=en), leading the team building a suspect retrieval system for Delhi Police, India. 
+During my time at Amazon Robotics, I delivered a robust solution that’s now deployed across 300+ stations and counting, enhancing the existing system by a significant margin. This rapid industrial impact demonstrates my drive to turn innovative ideas into tangible improvements.
 
-Prior to this, I received my Bachelor’s degree from the Department of Computer Science and Engineering at Delhi Technological University, India. In 2019, I got into CMU’s [RISS](https://riss.ri.cmu.edu) programme and was supported by [SN Bose Scholarship](https://www.winstepforward.org/sn-bose-scholars/). I have worked on multiple projects ranging from multimodal crisis detection system to speech recostruction in silent videos.
+I completed my Master’s in Robotics at the Robotics Institute, Carnegie Mellon University, where I worked at the Robot Perceiving and Doing ([RPAD](https://r-pad.github.io)) Lab under [Prof. David Held](https://davheld.github.io). My research focused on deformable object manipulation, combining theoretical insights with practical implementation. Previously, I earned my Bachelor’s degree from Delhi Technological University and participated in the [RISS](https://riss.ri.cmu.edu) program at CMU, supported by the [SN Bose Scholarship](https://www.winstepforward.org/sn-bose-scholars/). 
 
-I am also a national level swimmer, a trained Kathak dancer and an avid reader.
+My research journey has been dynamic and interdisciplinary, involving work on text analysis, computer vision, video processing, deformable object manipulation, and real-world robotics systems. This broad foundation has equipped me with the versatility to tackle complex AI challenges from multiple angles.
+
+Outside of work, I’m a national-level swimmer, a trained Kathak dancer, and an avid reader. I bring the same dedication and discipline from these pursuits to my work in AI and robotics.
 
 
