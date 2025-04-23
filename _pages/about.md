@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Mansi Agarwal, an Applied Scientist at Amazon Robotics with a passion for developing cutting-edge AI solutions. With expertise spanning Computer Vision, 3D Vision, Deep Learning, Reinforcement Learning, and Generative AI, I thrive at the intersection of research and real-world application.
+Hello! I’m Mansi Agarwal, an Applied Scientist at Amazon Robotics, where I build advanced AI systems that bridge the gap between cutting-edge research and scalable real-world deployment. My work spans Perception (2D and 3D), Self-Supervised & Multimodal Learning, Learning-Based Planning, and Embodied AI. I thrive at the intersection of research and real-world application.
 
-During my time at Amazon Robotics, I delivered a robust solution that’s now deployed across 300+ stations and counting, enhancing the existing system by a significant margin. This rapid industrial impact demonstrates my drive to turn innovative ideas into tangible improvements.
+At Amazon Robotics, I developed a robust multi-sensor solution for item identification, now deployed across 300+ stations and delivering measurable gains in speed, ergonomics, and cost savings. This work has been recognized as one of the team's top contributions in 2024 and reflects my commitment to transforming ideas into products that scale.
 
-I completed my Master’s in Robotics at the Robotics Institute, Carnegie Mellon University, where I worked at the Robot Perceiving and Doing ([RPAD](https://r-pad.github.io)) Lab under [Prof. David Held](https://davheld.github.io). My research focused on deformable object manipulation, combining theoretical insights with practical implementation. Previously, I earned my Bachelor’s degree from Delhi Technological University and participated in the [RISS](https://riss.ri.cmu.edu) program at CMU, supported by the [SN Bose Scholarship](https://www.winstepforward.org/sn-bose-scholars/). 
+I earned my Master’s in Robotics from the Robotics Institute at Carnegie Mellon University, where I conducted research at the Robot Perceiving and Doing Lab (RPAD) under Prof. David Held. My thesis focused on deformable object manipulation using point cloud correspondences. I hold a Bachelor’s degree from Delhi Technological University and was selected for the prestigious RISS program at CMU, supported by the SN Bose Scholarship.
 
 My research journey has been dynamic and interdisciplinary, involving work on text analysis, computer vision, video processing, deformable object manipulation, and real-world robotics systems. This broad foundation has equipped me with the versatility to tackle complex AI challenges from multiple angles.
 
