@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mansi Agarwal"
   avatar           : "profile.jpg"
-  bio              : "Computer Vision | Reinforcement Learning | Machine Learning | Deep Learning"
-  location         : "Pittsburgh, USA"
+  bio              : "Perception | Self-Supervised & Multimodal Learning | Learning-Based Planning | Embodied AI"
+  location         : "Boston, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PBcyY2wAAAAJ&hl=en"
-  email            : "mansiagarwal@cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=MvGHsQcAAAAJ&sortby=pubdate"
+  email            : "mansiag1198@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
