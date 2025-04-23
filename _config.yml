@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mansi Agarwal"
 title_separator          : "-"
 name                     : &name "Mansi Agarwal"
-description              : &description "MSR Student at Carnegie Mellon University"
+description              : &description "Applied Scientist at Amazon Robotics"
 url                      : https://mansiagarwal11.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mansiagarwal11.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mansi Agarwal"
   avatar           : "profile.jpg"
-  bio              : "Perception | Multimodal Learning | Robotics | Embodied AI"
+  bio              : "Perception| Robotics | Embodied AI"
   location         : "Boston, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
