@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Mansi Agarwal, an Applied Scientist at Amazon Robotics, where I build advanced AI systems that bridge the gap between cutting-edge research and scalable real-world deployment. My work spans Perception (2D and 3D), Self-Supervised & Multimodal Learning, Learning-Based Planning, and Embodied AI. I thrive at the intersection of research and real-world application.
+Hello! I’m Mansi Agarwal, an Applied Scientist at Amazon Robotics, where I build advanced AI systems that bridge the gap between cutting-edge research and scalable real-world deployment. My work spans Perception (2D and 3D), Multimodal Learning, and Embodied AI. I thrive at the intersection of research and real-world application.
 
 At Amazon Robotics, I developed a robust multi-sensor solution for item identification, now deployed across 300+ stations and delivering measurable gains in speed, ergonomics, and cost savings. This work has been recognized as one of the team's top contributions in 2024 and reflects my commitment to transforming ideas into products that scale.
 
