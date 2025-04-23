@@ -6,8 +6,6 @@ author_profile: true
 
 Authored 10 peer-reviewed papers; research cited 90+ times. Upto date publication list available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=MvGHsQcAAAAJ&sortby=pubdate).
 
-<br>
-
 <b>[Point-based Correspondence Estimation for Cloth Alignment and Manipulation](https://openreview.net/pdf?id=N8KlLRpevrT)</b> <br>
 <b>Mansi Agarwal</b>, Thomas Weng, David Held.
 <i>RSS 2023 Workshop on Symmetries in Robot Learning</i>. 
